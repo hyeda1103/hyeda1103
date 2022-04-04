@@ -5,7 +5,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | React
+- 💻 &nbsp; HTML | CSS | CSS-IN-JS | JavaScript | TypeScript | React
 
 <br>
 

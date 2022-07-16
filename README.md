@@ -1,7 +1,6 @@
 <h2> Dahye Ko</h2>
 
-- 🔭 &nbsp; I am Jr. front-end web developer👩‍💻 currently working at Angelswing, the contech startup based in Seoul, South Korea
-- 🐫 &nbsp; Things that I do every day: programming🦭, go for a walk🐨, meditate🦝, then sleep🌚  
+- 🔭 &nbsp; Web Developer based in Seoul, South Korea
 
 <h3>🛠 Tech Stack</h3>
 

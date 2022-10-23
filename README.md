@@ -2,10 +2,6 @@
 
 - 🔭 &nbsp; Web Developer based in Seoul, South Korea
 
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=E84D31)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-<br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeda1103&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hyeda1103's Github Stats">
 
 </br>

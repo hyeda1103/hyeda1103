@@ -1,7 +1,7 @@
 <h2> Dahye Ko</h2>
 
-- 🔭 &nbsp; Web Developer based in Seoul, South Korea
-- 🦕 Currently working as a web frontend engineer at Clika (freelancer)
+- 🔭 Web Developer based in Seoul, South Korea
+- 🦕 Currently working as a web frontend engineer at Clika
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeda1103&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hyeda1103's Github Stats">
 

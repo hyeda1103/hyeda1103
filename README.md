@@ -1,7 +1,7 @@
 <h2> Dahye Ko</h2>
 
 - 🔭 Web Developer based in Seoul, South Korea
-- 🦕 Currently working @[Clika](https://www.linkedin.com/company/clika)
+- 🦕 Currently working @CUZ-ART
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeda1103&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)

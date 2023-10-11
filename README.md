@@ -1,6 +1,6 @@
 <h2> Dahye Ko</h2>
 
-- 🔭 Web Developer based in Seoul, South Korea
+- 🔭 Web Front-end Developer based in Seoul, South Korea
 - 🦕 Currently working at [Clika](https://github.com/Clika)
 </br>
 

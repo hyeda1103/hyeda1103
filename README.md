@@ -5,3 +5,4 @@
 </br>
 
 <img src="https://github.com/user-attachments/assets/cb22550f-6f70-48e4-aaeb-b9591b8147e8" alt="hungry ants image" />
+[Ongoing project to make an ecology for ants: watch here](https://github.com/hyeda1103/hungry-ants)

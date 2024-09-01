@@ -4,4 +4,4 @@
 - 🦕 Currently working at [Clika](https://github.com/Clika)
 </br>
 
-<img src="https://github.com/user-attachments/assets/cb22550f-6f70-48e4-aaeb-b9591b8147e8" alt="hungry ants image" width="80%" />
+<img src="https://github.com/user-attachments/assets/cb22550f-6f70-48e4-aaeb-b9591b8147e8" alt="hungry ants image" />
